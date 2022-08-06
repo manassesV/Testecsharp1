@@ -1,0 +1,16 @@
+C:\Users\manasses.vitorino\source\repos\Console.Test.1\Console.Test.1\obj\Debug\net5.0\Console.Test.1.csproj.AssemblyReference.cache
+C:\Users\manasses.vitorino\source\repos\Console.Test.1\Console.Test.1\obj\Debug\net5.0\Console.Test.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manasses.vitorino\source\repos\Console.Test.1\Console.Test.1\obj\Debug\net5.0\Console.Test.1.AssemblyInfoInputs.cache
+C:\Users\manasses.vitorino\source\repos\Console.Test.1\Console.Test.1\obj\Debug\net5.0\Console.Test.1.AssemblyInfo.cs
+C:\Users\manasses.vitorino\source\repos\Console.Test.1\Console.Test.1\obj\Debug\net5.0\Console.Test.1.csproj.CoreCompileInputs.cache
+C:\Users\manasses.vitorino\source\repos\Console.Test.1\Console.Test.1\bin\Debug\net5.0\Console.Test.1.exe
+C:\Users\manasses.vitorino\source\repos\Console.Test.1\Console.Test.1\bin\Debug\net5.0\Console.Test.1.deps.json
+C:\Users\manasses.vitorino\source\repos\Console.Test.1\Console.Test.1\bin\Debug\net5.0\Console.Test.1.runtimeconfig.json
+C:\Users\manasses.vitorino\source\repos\Console.Test.1\Console.Test.1\bin\Debug\net5.0\Console.Test.1.runtimeconfig.dev.json
+C:\Users\manasses.vitorino\source\repos\Console.Test.1\Console.Test.1\bin\Debug\net5.0\Console.Test.1.dll
+C:\Users\manasses.vitorino\source\repos\Console.Test.1\Console.Test.1\bin\Debug\net5.0\ref\Console.Test.1.dll
+C:\Users\manasses.vitorino\source\repos\Console.Test.1\Console.Test.1\bin\Debug\net5.0\Console.Test.1.pdb
+C:\Users\manasses.vitorino\source\repos\Console.Test.1\Console.Test.1\obj\Debug\net5.0\Console.Test.1.dll
+C:\Users\manasses.vitorino\source\repos\Console.Test.1\Console.Test.1\obj\Debug\net5.0\ref\Console.Test.1.dll
+C:\Users\manasses.vitorino\source\repos\Console.Test.1\Console.Test.1\obj\Debug\net5.0\Console.Test.1.pdb
+C:\Users\manasses.vitorino\source\repos\Console.Test.1\Console.Test.1\obj\Debug\net5.0\Console.Test.1.genruntimeconfig.cache
